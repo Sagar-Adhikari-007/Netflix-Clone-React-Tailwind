@@ -1,3 +1,10 @@
+#Deployed on FireBase: https://netflix-clone-project-69.web.app/
+
+# Added Functionality to bookmark your favourite shows.
+# added shows can also be removed .
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
